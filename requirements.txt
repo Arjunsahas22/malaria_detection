@@ -9,7 +9,7 @@ matplotlib>=1.4.3
 pandas>=0.19
 flasgger==0.9.4
 streamlit
-numpy==1.16.4
+numpy>=1.11.0
 streamlit==0.52.1
 pillow
 keras
